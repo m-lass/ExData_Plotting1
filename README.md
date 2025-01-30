@@ -1,3 +1,9 @@
+This forked repository contains my assignment for the week 1 Exploratory data analysis class project.
+It consists of the required png files as well as the corresponding R files for each of them. Every R file can be run independently from the
+others insofar as the assignment data is already unzipped in your working directory.
+Below, you can find the original instructions for the course project.
+
+
 ## Introduction
 
 This assignment uses data from
